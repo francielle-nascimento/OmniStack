@@ -1,4 +1,7 @@
 const mongoose = require('mongoose');
+const {connect} = require('./Repository');
+
+connect()
 
 const DevSchema = new mongoose.Schema({
     name: String,
