@@ -37,7 +37,16 @@ const addDev = async (request, response ) =>{
     return response.json(dev).status(201)
 }
 
-
+const getAll = (request, response) => {
+    devModel.find((error, devs) => {
+      if (error) {
+        return response.status(500).send(error)
+      }
+  
+      return response.status(200).json(devs)
+    })
+  }
 module.exports = {
-    addDev
+    addDev,
+    getAll
 }
