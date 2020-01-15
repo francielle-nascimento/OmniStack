@@ -6,7 +6,7 @@
 :lock: Em Desenvolvimento
 
 ## Backend
-Veja [BACKEND.md](./BACKEND.md) para informações sobre o Backend e arquitetura.
+Veja [backend.md](./BACKEND.md) para informações sobre o Backend, rotas e arquitetura.
 
 ### Uso
 Configure o MongoDB  
