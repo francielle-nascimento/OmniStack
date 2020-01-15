@@ -4,8 +4,8 @@
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
-    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational"></img>
-  </a>
+   
+   /a>
   <a aria-label="Dia 2 de 5" href="https://rocketseat.com.br/week-10/aulas#2">
     <img src="https://img.shields.io/badge/Dia-2-green"></img>
   </a>
