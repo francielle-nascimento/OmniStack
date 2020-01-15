@@ -1,4 +1,4 @@
-<img src="./static/omnistack.png" align="center"></img>
+<img src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" align="center"></img>
 <h1 align="center">Semana Omnistack 10</h1>
 <p align="center">Projeto desenvolvido durante a Omnistack da Rocketseat</p>
 
